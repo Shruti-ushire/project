@@ -128,7 +128,6 @@ PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 pytz @ file:///C:/b/abs_22fofvpn1x/croot/pytz_1671698059864/work
 pytz-deprecation-shim==0.1.0.post0
-pywin32==305.1
 pywinpty @ file:///C:/b/abs_73vshmevwq/croot/pywinpty_1677609966356/work/target/wheels/pywinpty-2.0.10-cp310-none-win_amd64.whl
 PyYAML==6.0
 pyzmq @ file:///C:/ci/pyzmq_1657616000714/work
