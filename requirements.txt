@@ -4,3 +4,4 @@ streamlit
 plotly
 wordcloud
 matplotlib
+authentication
