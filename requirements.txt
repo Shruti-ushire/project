@@ -216,3 +216,4 @@ wrapt @ file:///C:/Windows/Temp/abs_7c3dd407-1390-477a-b542-fd15df6a24085_diwiza
 yarl @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_e5nlunspj6/croots/recipe/yarl_1661437086516/work
 zipp==3.15.0
 packages.txt
+scikit_learn==1.0.2
