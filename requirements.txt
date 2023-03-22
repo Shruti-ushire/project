@@ -6,3 +6,5 @@ wordcloud
 matplotlib
 streamlit-authenticator==0.1.3
 Scikit-learn
+seaborn
+plotly.express
